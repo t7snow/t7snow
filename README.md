@@ -1,16 +1,18 @@
-### Hi there 👋
+# :rocket: what am I up to? 
 
-<!--
-**t7snow/t7snow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently I am a Computer Science student at George Mason University, graduating in 2025 with a bachelors in Computer Science. I am working on a few personal projects that will release here soon. 
 
-Here are some ideas to get you started:
+## where to read more about me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am looking to start some blog posts, they will be here soon. 
+
+## what have I done? 
+
+I have started a few businesses, done >100k in sales, and created a lot of applications. Where are they? Most of them are released, but the middle school and highschool Tucker that wrote them made them work, not pretty. So they aren't here, lol. 
+
+## where to find me? 
+
+Here are some links: 
+
+https://www.linkedin.com/in/tucker-snow-8672ab20a/
+https://twitter.com/tsnowsev
