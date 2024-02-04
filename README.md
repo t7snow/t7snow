@@ -15,4 +15,5 @@ I have started a few businesses, done >100k in sales, and created a lot of appli
 Here are some links: 
 
 https://www.linkedin.com/in/tucker-snow-8672ab20a/
+
 https://twitter.com/tsnowsev
