@@ -17,3 +17,5 @@ Here are some links:
 https://www.linkedin.com/in/tucker-snow-8672ab20a/
 
 https://twitter.com/tsnowsev
+
+https://tucker.bearblog.dev
